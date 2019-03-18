@@ -1,0 +1,5 @@
+package nullProject;
+import static spark.Spark.*;
+public class main {
+
+}

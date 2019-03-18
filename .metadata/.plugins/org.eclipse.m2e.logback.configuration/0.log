@@ -1,0 +1,3 @@
+2019-03-15 20:32:15,555 [Worker-6: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-15 22:46:08,321 [Worker-57: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sparkjava/spark-core/2.3/spark-core-2.3-sources.jar
+2019-03-15 22:46:11,218 [Worker-57: Debug Source Lookup] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sparkjava/spark-core/2.3/spark-core-2.3-sources.jar
